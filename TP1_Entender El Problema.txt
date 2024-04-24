@@ -1,0 +1,14 @@
+TRABAJO PRÁCTICO Nº 1 ENTENDER EL PROBLEMA.
+
+1.	Dado el número matemático PI, se solicita al usuario que ingrese el valor del radio de una circunferencia y calcule y muestre por pantalla el área y perímetro. (área = PI * radio2) (perímetro = 2 * PI * radio.)
+2.	Dadas las longitudes de los dos catetos de un triángulo rectángulo, hallar la longitud de la hipotenusa.
+3.	Dadas las horas trabajadas por un operario y el valor de las mismas, determinar que sueldo percibe dicho operario.
+4.	Ídem anterior, pero considerando que se le debe aplicar los descuentos correspondientes por ley, los mismos son del 20%. Mostrar el sueldo a cobrar.
+5.	Dados dos valores A y B distintos, determinar cuál es el mayor.
+6.	Determinar si una palabra cualquiera es un palíndromo (capicúa); por ejemplo: Neuquén.
+7.	Dadas las calificaciones de 4 exámenes finales de un estudiante determinar el promedio.
+8.	Dada una lista de 3 números determinar si el Nº 3 se encuentra en dicha lista.
+9.	Calcular el valor a cancelar de un producto de un monto ingresado, el programa debe mostrar cómo se presenta en una factura, subtotal (cantidad por precio), IVA (del subtotal) y total a pagar (la suma del subtotal + el IVA). IVA=21%.
+10.	Escribir un programa que calcule el volumen de un cilindro. Para ello se deberá solicitar al usuario que ingrese el radio y la altura. Mostrar el resultado por pantalla. volumen = π * radio2 * altura.
+11.	Solicitar al usuario que ingrese el precio de un producto al inicio del año, y el precio del mismo producto transcurrido un determinado tiempo. El usuario debe mostrar cuál fue el porcentaje de aumento que tuvo ese producto en el año.
+12.	De los y las estudiantes de Fundamentos de Programación se desea saber qué porcentaje de personas menores a 20 años se encuentran cursando la materia. El programa debe solicitar al usuario que ingrese la cantidad total de estudiantes menores a 20 años y el total.

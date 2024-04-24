@@ -1,0 +1,12 @@
+TRABAJO PRÁCTICO Nº 2 ESTRATEGIA.
+
+1.	Dada una lista de valores numéricos, hallar su rango, es decir, la diferencia entre su valor máximo y su valor mínimo.
+2.	Indique como escucha en Spotify el podcast La Cruda de Migue Granados.
+3.	Escriba en forma imperativa las instrucciones que le daría a una persona para concretar una reunión de trabajo/estudio
+4.	Escriba las instrucciones a seguir para mirar una película en una determinada plataforma por ejemplo Netflix o Prime Video.
+TRABAJO PRÁCTICO Nº 2 ESTRATEGIA.
+
+1.	Dada una lista de valores numéricos, hallar su rango, es decir, la diferencia entre su valor máximo y su valor mínimo.
+2.	Indique como escucha en Spotify el podcast La Cruda de Migue Granados.
+3.	Escriba en forma imperativa las instrucciones que le daría a una persona para concretar una reunión de trabajo/estudio
+4.	Escriba las instrucciones a seguir para mirar una película en una determinada plataforma por ejemplo Netflix o Prime Video.
